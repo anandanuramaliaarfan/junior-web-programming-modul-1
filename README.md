@@ -52,3 +52,10 @@ Halaman web menampilkan:
 ## 5. Author
 
 Junior Web Programming Participant
+
+
+## Repository GitHub
+
+Source code, dokumentasi, dan hasil pengerjaan Modul 1 dapat dilihat melalui tautan berikut:
+
+[GitHub - Junior Web Programming Modul 1](https://github.com/anandanuramaliaarfan/junior-web-programming-modul-1)
