@@ -18,7 +18,8 @@ Repository ini merupakan dokumentasi pengerjaan Modul 1 pada pelatihan Junior We
 | 7 | ESLint | Membantu mendeteksi masalah pada kode JavaScript |
 
 ## 2. Struktur Repository
-
+## Struktur Folder
+```text
 junior-web-programming-modul-1/
 ├── screenshots/
 │   ├── git-version.png
@@ -29,6 +30,7 @@ junior-web-programming-modul-1/
 │   └── .gitkeep
 ├── index.html
 └── README.md
+```
 
 ## 3. Dokumentasi Screenshot
 
